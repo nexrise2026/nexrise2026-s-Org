@@ -1,0 +1,7 @@
+{
+  "name": "NIRVAHA AI",
+  "description": "From life event to the right action. Multilingual, voice-enabled, consent-first public-service navigation agent for India.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
